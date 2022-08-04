@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "65169740980",
+    "project_id": "fir-pushnoti-5f0e0",
+    "storage_bucket": "fir-pushnoti-5f0e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65169740980:android:ae3ceca6b508e183e6b3e1",
+        "android_client_info": {
+          "package_name": "com.example.firebasepushnoti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65169740980-q8hcogm827qfit47dj2uih9ctleb8ghv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCATIhXHxTzWVMwLaHS4xozNPy6s_RhaqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65169740980-q8hcogm827qfit47dj2uih9ctleb8ghv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
